@@ -7,4 +7,4 @@
 - 😄 Pronouns: tank/helicopter
 - ⚡ Fun fact: Loving cats.
 
-<img src="grinning-cat_1f63a.png" align="left" width="300">
+<img src="sticker.png" align="left" width="150">
