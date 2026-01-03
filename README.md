@@ -1,10 +1,1 @@
-<img src="sticker.png" align="left" width="500" hspace="20">
-
-- 😄 Hello! I'm a car. Can you give me some food please?
-- 🤔 I’m looking for help with nothing.
-- 💬 Ask me about simple Android basics. (TWRP, ROMs etc.)
-- 📫 How to reach me: Instagram. That's it. 
-- 😄 Pronouns: tank/helicopter
-- ⚡ Fun fact: Loving cats.
-
-<img src="sticker.png" align="left" width="200">
+<img width="1340" height="528" alt="bannr" src="https://github.com/user-attachments/assets/872e7f00-3f1a-4ad2-a926-e7828cfd12cf" />
